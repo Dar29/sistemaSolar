@@ -1,9 +1,5 @@
 # Simple Solar System by Python and PyGame
 
-Create by elbanic.(elbanic12@naver.com)
-
-<br><br>
-
 ### This software uses the following libraries & platform.
 * Python 3.x
 * PyGame 1.9.x
