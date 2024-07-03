@@ -20,8 +20,7 @@ Create by elbanic.(elbanic12@naver.com)
 
 #### Installation of dependent libraries.
 ```
-pip3 install pygame
-pip3 install pyopengl
+pip install -r requirement.txt
 ```
 
 #### Run the program
